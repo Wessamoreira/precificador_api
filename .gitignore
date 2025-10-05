@@ -30,3 +30,5 @@ logs/
 
 # Arquivos temporários
 *.swp
+.metadata/
+.factorypath
